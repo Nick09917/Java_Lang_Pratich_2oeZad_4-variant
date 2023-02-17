@@ -1,1 +1,12 @@
 # Java_Lang_Pratich_2oeZad_4-variant
+Осипов Николай ИС-102 2в, 2 задание![1](https://user-images.githubusercontent.com/115313324/219657986-7028c0eb-786a-44af-ac8c-0bc6ed7b31c4.jpg)
+![2](https://user-images.githubusercontent.com/115313324/219657993-016d4ee3-d22f-4f23-ae6e-9bbe4ef9e83a.jpg)
+![3](https://user-images.githubusercontent.com/115313324/219658002-299b8205-c198-4c7f-bfc1-08c51c626a42.jpg)
+![4](https://user-images.githubusercontent.com/115313324/219658011-198180b9-a54d-4181-8a0c-213133268ef7.jpg)
+![5](https://user-images.githubusercontent.com/115313324/219658019-84b3053e-e1af-4e99-aefb-f013083fe310.jpg)
+![6](https://user-images.githubusercontent.com/115313324/219658026-3103bc83-3b3c-4c3a-8326-dcc289672ac6.jpg)
+![7](https://user-images.githubusercontent.com/115313324/219658032-332bf94d-cd85-4fa7-85b7-0b860dd7151a.jpg)
+![8](https://user-images.githubusercontent.com/115313324/219658040-c953e247-c86a-4f14-b93d-c87d00f36e1c.jpg)
+![9](https://user-images.githubusercontent.com/115313324/219658046-e7f793d3-876a-4546-8d81-c7462af99f31.jpg)
+![10](https://user-images.githubusercontent.com/115313324/219658057-0eafd68b-e1d4-44cf-a9b9-054ff3921c93.jpg)
+![11](https://user-images.githubusercontent.com/115313324/219658065-0a4eaa5d-3678-4fc0-bc38-7b704e92ca37.jpg)
